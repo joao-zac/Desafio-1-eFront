@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Página de Cadastro <a href="https://github.com/Lorenalgm">iuricode</a></h3>
+  <h3 align="center">Página de Cadastro <a href="https://github.com/iuricode">iuricode</a></h3>
  <br />
   <p align="center">
      Página de Cadastro
@@ -20,8 +20,6 @@
 * [Como começar](#como-começar)
 * [Dicas](#dicas)  
   * [Cores](#cores)
-  * [Modelo](#modelo)
-  * [Imagens](#imagens)
   * [Icones](#icones)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Compartilhe](#compartilhe)
@@ -50,9 +48,6 @@ Verde: #04D361<br>
 Dark: #0C0C0C<br>
 Dark200: #212529<br>
 Light: #F9f9f9
-
-## Modelo:
-O modelo final desktop está disponível na pasta `./design`
 
 ## Icones
 Para os ícones, foi utilizada a biblioteca Font Awesome
