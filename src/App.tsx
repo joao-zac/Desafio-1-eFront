@@ -10,6 +10,7 @@ function App() {
       
       <div className="container">
 
+<<<<<<< HEAD
         <h1>  
           Seja bem-vindo a
           sua melhor newsletter
@@ -19,11 +20,24 @@ function App() {
           
           <h3>Fique por dentro de todas as novidades</h3>
           
+=======
+      
+        <h1>Seja bem-vindo a <span className='break'>sua melhor newsletter</span></h1>
+
+        <h3>Fique por dentro de todas as novidades</h3>
+
+        <div className="form-card">
+          
+>>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
           <p>
             preencha os campos para receber as notícias
             sobre programação
           </p>
+<<<<<<< HEAD
 
+=======
+          
+>>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
           <Form />
 
         </div>

@@ -1,22 +1,19 @@
 <br />
 <p align="center">
 
-<<<<<<< HEAD
-  <h3 align="center">Página de Cadastro feito por <a href="https://github.com/joao-zac">iuricode</a></h3>
-=======
   <h3 align="center">Página de Cadastro <a href="https://github.com/iuricode">iuricode</a></h3>
->>>>>>> f7d667b957dfc6be78f7f4a256a0ca7818405cef
  <br />
   <p align="center">
      Página de Cadastro
        <br />
     <br />
-    <a href="#desafio">Desafio</a>
-    ·
 <<<<<<< HEAD
+    <a href="https://github.com/devchallenge-io/pomodoro">Desafio</a>
 =======
+    <a href="#desafio">Desafio</a>
+>>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
+    ·
     <a href="https://www.devchallenge.com.br/">eFront</a>
->>>>>>> f7d667b957dfc6be78f7f4a256a0ca7818405cef
   </p>
 </p>
 
@@ -67,8 +64,4 @@ Para os ícones, foi utilizada a biblioteca Font Awesome
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 
-<<<<<<< HEAD
 Desafio criado por  <a href="https://github.com/iuricode">Iuri</a> :)
-=======
-Desafio criado por  <a href="https://github.com/iuricode">Lorena</a> :)
->>>>>>> f7d667b957dfc6be78f7f4a256a0ca7818405cef

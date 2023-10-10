@@ -1,6 +1,7 @@
 header {
     display: flex;
     justify-content: space-around;
+<<<<<<< HEAD
     padding-top: 2.5rem 
 }
 
@@ -12,4 +13,17 @@ header button {
     padding: .3rem .4rem;
     border: 0.15rem solid #899BFF;
     border-radius: .6rem;
+=======
+    padding-top: 2.5rem; 
+
+}
+
+header button {
+    font: lighter .74rem 'Inter', sans-serif;
+    letter-spacing: .03rem;
+    background-color: transparent;
+    padding: 1.1rem 2rem;
+    border: 0.15rem solid #899BFF;
+    border-radius: .3rem;
+>>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
 }

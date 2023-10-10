@@ -7,6 +7,7 @@ body{
     display: flex;
 }
 
+<<<<<<< HEAD
 
 h1{
     font: 600 4.8rem 'sora', sans-serif;
@@ -16,6 +17,23 @@ h1{
 
 h3{
     font: 500 3.2rem 'Inter', sans-serif;
+=======
+h1{
+    font: 600 3rem 'sora', sans-serif; 
+    font-style: normal;
+    color: #F9f9f9;
+    text-align: center;
+    line-height: normal;
+}
+
+.break{
+    display: block;
+}
+
+h3{
+    margin-top: 2rem;
+    font: 500 2rem 'Inter', sans-serif;
+>>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
     color: #899BFF;
 }
 
@@ -30,9 +48,26 @@ button {
 }
 
 .container {
+<<<<<<< HEAD
  
     display: flex;
     flex-direction: column;
     align-items: center;
 
+=======
+    width: 100vi;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5rem;
+}
+
+.form-card {
+    margin-top: 5rem;
+    width: 39vi;
+}
+
+.form-card p {
+    font-size: 1.6rem;
+>>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
 }
