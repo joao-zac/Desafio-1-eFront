@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2.5rem 
+}
+
+header button {
+    font-family: 'DM Sans', sans-serif;
+    font-size: .8rem;
+    letter-spacing: .07rem;
+    background-color: transparent;
+    padding: .3rem .4rem;
+    border: 0.15rem solid #899BFF;
+    border-radius: .6rem;
+}
