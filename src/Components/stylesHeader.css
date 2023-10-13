@@ -1,8 +1,7 @@
 header {
     display: flex;
     justify-content: space-around;
-    padding-top: 2.5rem; 
-
+    padding-top: 2rem; 
 }
 
 header button {

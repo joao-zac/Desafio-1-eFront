@@ -1,15 +1,21 @@
 import './stylesForm.css'
+import { useId } from 'react'
 
 const Form = () => {
+
+  const [emailInputId, nomeInputId] = useId();
+
   return (
-    <form action="">
-        <label htmlFor="Nome">Nome</label>
-        <input name='Nome' type="text" />
-
-        <label htmlFor="Nome">Email</label>
-        <input type="text" />
-
-        <button>Enviar</button>
+    <form>
+        
+      <label htmlFor={nomeInputId}>Nome</label>
+      <input id={nomeInputId} name="nome" type="text" />
+  
+      <label htmlFor={emailInputId}>Email</label>
+      <input id={emailInputId} name="email" type="email" />
+        
+      <button>Enviar</button>
+      
     </form>
   )
 }

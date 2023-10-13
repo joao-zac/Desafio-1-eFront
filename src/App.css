@@ -8,7 +8,7 @@ body{
 }
 
 h1{
-    font: 600 3rem 'sora', sans-serif; 
+    font: 600 2.5rem 'sora', sans-serif; 
     font-style: normal;
     color: #F9f9f9;
     text-align: center;
@@ -20,13 +20,13 @@ h1{
 }
 
 h3{
-    margin-top: 2rem;
-    font: 500 2rem 'Inter', sans-serif;
+    margin-top: 1.6rem;
+    font: 500 1.6rem 'Inter', sans-serif;
     color: #899BFF;
 }
 
 p{
-    font: 500 2.6rem 'Inter', sans-serif;
+    font: 500 1.3rem 'Inter', sans-serif;
     color:#AEAEAE;
 }
 
@@ -40,14 +40,10 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 
 .form-card {
     margin-top: 5rem;
-    width: 39vi;
-}
-
-.form-card p {
-    font-size: 1.6rem;
+    width: 31vi;
 }
