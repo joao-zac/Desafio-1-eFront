@@ -8,10 +8,14 @@
        <br />
     <br />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a href="https://github.com/devchallenge-io/pomodoro">Desafio</a>
 =======
     <a href="#desafio">Desafio</a>
 >>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
+=======
+    <a href="https://github.com/devchallenge-io/pomodoro">Desafio</a>
+>>>>>>> b7adf2a1b6f02d69ac08dfa4771257a1e1cbf3d0
     ·
     <a href="https://www.devchallenge.com.br/">eFront</a>
   </p>
