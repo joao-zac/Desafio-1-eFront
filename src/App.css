@@ -7,17 +7,6 @@ body{
     display: flex;
 }
 
-<<<<<<< HEAD
-
-h1{
-    font: 600 4.8rem 'sora', sans-serif;
-    color: #F9f9f9;
-    width: 50%;
-}
-
-h3{
-    font: 500 3.2rem 'Inter', sans-serif;
-=======
 h1{
     font: 600 3rem 'sora', sans-serif; 
     font-style: normal;
@@ -33,7 +22,6 @@ h1{
 h3{
     margin-top: 2rem;
     font: 500 2rem 'Inter', sans-serif;
->>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
     color: #899BFF;
 }
 
@@ -48,13 +36,6 @@ button {
 }
 
 .container {
-<<<<<<< HEAD
- 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-=======
     width: 100vi;
     display: flex;
     flex-direction: column;
@@ -69,5 +50,4 @@ button {
 
 .form-card p {
     font-size: 1.6rem;
->>>>>>> 65496ce (:lipstick: feat: Estilizaçao do corpo do projeto)
 }
