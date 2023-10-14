@@ -3,8 +3,12 @@ html {
 }
 
 body{
-    background: linear-gradient(to top right,#0C0C0C, #212529);
-    display: flex;
+    background: linear-gradient(252deg, #1A1A1A 0%, #0A0A0A 100%);
+    display: flex; 
+    /* FUTURO ESTADO REATIVO 
+    filter: blur(.5px);
+    opacity: 0.8;
+    background: #141414;*/
 }
 
 h1{
@@ -33,6 +37,8 @@ p{
 button {
     font: 700 1.5rem 'DM Sans', sans-serif;
     color: #F9F9F9;
+    cursor: pointer;
+    
 }
 
 .container {

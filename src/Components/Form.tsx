@@ -1,10 +1,12 @@
+import { useId, useState } from 'react'
 import './stylesForm.css'
-import { useId } from 'react'
+import '../types/typesprops'
 
-const Form = () => {
+const Form:React.FC<FormProps> = ({ enabled, setEnabled })=> {
 
   const [emailInputId, nomeInputId] = useId();
-
+  const [valid, setValid] = useState<boolean>();
+  
   return (
     <form>
         
@@ -14,7 +16,11 @@ const Form = () => {
       <label htmlFor={emailInputId}>Email</label>
       <input id={emailInputId} name="email" type="email" />
         
-      <button>Enviar</button>
+      <button onClick={(e) => {
+        setEnabled(!enabled) 
+        e.preventDefault()
+      }}
+      >Enviar</button>
       
     </form>
   )

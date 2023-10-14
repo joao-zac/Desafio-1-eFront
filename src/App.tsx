@@ -1,8 +1,11 @@
 import './App.css'
 import Form from './Components/Form'
 import Header from './Components/Header'
+import InformCard from './Components/InformCard'
+import { useState } from 'react'
 
 function App() {
+  const [enabled, setEnabled] = useState<boolean>(false);
 
   return (
     <>
@@ -22,11 +25,13 @@ function App() {
             sobre programação
           </p>
           
-          <Form />
+          <Form enabled={enabled} setEnabled={setEnabled}/>
 
         </div>
 
       </div>
+
+      {enabled == true ? <InformCard enabled={enabled} setEnabled={setEnabled}/> : null}
     </>
   )
 }
